@@ -1,0 +1,25 @@
+h1{
+    font-weight:bold;
+    color:black;
+}
+ul{
+    text-decoration:none;
+}
+h2{
+    color:rgb(63, 59, 59);
+}
+#about-me{
+    color:black;
+}
+#progress{
+    color:rgb(33, 143, 143);
+}
+#RoadMap{
+    color:rgb(0, 0, 0);
+}
+body{
+    color:white;
+}
+footer{
+    color:rgb(139, 19, 19)
+}
